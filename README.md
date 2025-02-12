@@ -1,0 +1,2 @@
+# lithika
+study details
